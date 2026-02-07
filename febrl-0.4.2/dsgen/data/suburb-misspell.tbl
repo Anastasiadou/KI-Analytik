@@ -1,0 +1,27 @@
+# German city/suburb misspellings
+# Format: correct_name : misspelling1, misspelling2, ...
+#
+berlin : belin, berlien, berlen, berrlin
+hamburg : hambrug, hambuurg, hahmburg, hamburk
+muenchen : munchen, muennchen, mynchen, meunchen
+koeln : coeln, kolln, koelln, kohln
+frankfurt : frankfort, francfurt, frankfurd, franckfurt
+stuttgart : stutgart, stuttgard, sttutgart, shtuttgart
+duesseldorf : dusseldorf, dueselldorf, dueseldorf, duesseldof
+leipzig : leipsig, leipzik, leipziig, laipzig
+dortmund : dortmunnd, dordmund, dortmud, dortmuund
+essen : esen, essenn, eessen, esssen
+bremen : brehmen, bramen, breemen, bremon
+dresden : drseden, dresdn, drezden, drresden
+hannover : hanover, hannofer, hannoover, hannofar
+nuernberg : nurnberg, nuremburg, nuernberk, neurnberg
+duisburg : duisburk, duisbrug, duiisburg, duisburrg
+bochum : bohcum, bochuum, bochhum, bockum
+wuppertal : wupertal, wuppertahl, wupperdal, vuppertal
+bielefeld : bielefeldt, bielfeld, bieleefelt, bielefelld
+bonn : bon, boon, bhonn, bnn
+muenster : munster, meunster, muennster, muenstr
+mannheim : manheim, mannnheim, mannhiem, mannaheim
+karlsruhe : carlsruhe, karlruhe, karlsrueh, karrlsruhe
+augsburg : augsburk, augsbrug, aughsburg, auugsburg
+freiburg : freyburg, freiburk, freibuurg, fraibug
