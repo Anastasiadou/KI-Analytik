@@ -1,0 +1,2 @@
+recordlinkage>=0.16
+pandas>=2.0
