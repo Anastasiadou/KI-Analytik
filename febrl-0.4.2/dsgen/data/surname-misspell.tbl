@@ -1,0 +1,32 @@
+# German surname misspellings
+# Format: correct_name : misspelling1, misspelling2, ...
+#
+mueller : muller, meuller, mueler, myller
+schmidt : schmid, schmitt, schmitd, schmiedt
+schneider : schnaider, schnider, schnyder, schneyder
+fischer : fisher, fisscher, ficher, fyscher
+weber : weeber, webber, weper, veber
+meyer : meier, maier, mayer, mejer
+wagner : vagner, waagner, wagnner, wagener
+becker : bekker, becher, beker, pecker
+schulz : schultz, schulze, schults, shulz
+hoffmann : hofmann, hofman, hoffmaan, hofmaan
+koch : kooch, koh, kohch, kock
+richter : richtar, riechter, richtter, richder
+wolf : wolff, wollf, woolf, volf
+schaefer : schafer, schaeffer, scheefer, schefer
+bauer : baur, bauher, bawer, bower
+klein : klain, kklein, clein, klien
+zimmermann : zimermann, zimmerman, zimerman, zimmermaan
+braun : brownn, braunn, brawn, praun
+krueger : kruger, kreuger, krueeger, kruegger
+hartmann : hartman, hardmann, hertmann, hartmaan
+lange : lannge, langeh, laange, langge
+schwarz : shwarz, schwartz, schwaarz, svarz
+krause : krausse, kruse, krauze, krauhse
+lehmann : lehman, leehmann, lehmaan, lemann
+koehler : kohler, koeler, koehleer, keohler
+herrmann : herman, herrman, hehrmann, herrmaann
+koenig : konig, koenning, koeniek, koenieg
+huber : huuber, hubber, houber, huper
+kaiser : kaizer, kaijser, kayser, keiser

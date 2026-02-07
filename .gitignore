@@ -5,6 +5,11 @@ dist/
 build/
 .venv/
 venv/
-data/
+/data/
 *.csv
 .env
+
+# Allow febrl dsgen input data files
+!febrl-0.4.2/dsgen/data-org/*.csv
+!febrl-0.4.2/dsgen/data/*.csv
+!febrl-0.4.2/dsgen/data/*.tbl
